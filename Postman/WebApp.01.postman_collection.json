@@ -1,0 +1,68 @@
+{
+	"info": {
+		"_postman_id": "df2477d1-2234-43b4-b2c3-330e6e98d706",
+		"name": "WebApp.01",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "4920194",
+		"_collection_link": "https://galactic-spaceship-458056.postman.co/workspace/WebApi~53c2bb7c-a5c6-40cb-ac70-8c5662133c96/collection/4920194-df2477d1-2234-43b4-b2c3-330e6e98d706?action=share&source=collection_link&creator=4920194"
+	},
+	"item": [
+		{
+			"name": "/index",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5100/index",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5100",
+					"path": [
+						"index"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "/page1",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5100/page1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5100",
+					"path": [
+						"page1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "/page2",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5100/index",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5100",
+					"path": [
+						"index"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
